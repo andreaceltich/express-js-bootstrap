@@ -50,7 +50,7 @@
     "eslint-config-wolox": "^2.3.0",
     "eslint-config-wolox-node": "^1.0.0",
     "eslint-plugin-import": "^2.14.0",
-    "eslint-plugin-jest": "^22.1.2",
+    "eslint-plugin-jest": "^23.19.0",
     "eslint-plugin-prettier": "^3.0.0",
     "jest": "^24.1.0",
     "lodash": "^4.17.11",
